@@ -1,4 +1,4 @@
-# BOre Blending Planning and Green Shovel Allocation Problem (OBPGSAP)
+# Ore Blending Planning and Green Shovel Allocation Problem (OBPGSAP)
 
 - Articles by [Prof. Luciano Perdigão Cota](https://lucianocota.github.io) for the OBPGSAP:
 
