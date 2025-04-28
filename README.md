@@ -6,7 +6,7 @@
 
     - Authors: Natanael S. Coutinho (ITV), Tatianna A. P. Beneteli (ITV) Gustavo Pessin (ITV), and Luciano P. Cota (ITV)
       
-    - [Paper](./https://www.inderscienceonline.com/doi/abs/10.1504/IJMME.2023.133648)
+    - [Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJMME.2023.133648)
 
   - Um algoritmo matheuristic baseado em Iterated Local Search para o problema de blendagem e alocação de equipamentos de carga na mineração (submitted on SBPO 2025)
  
