@@ -2,7 +2,7 @@
 
 - Articles by [Prof. Luciano Perdigão Cota](https://lucianocota.github.io) for the OBPGSAP:
 
-  - Ore blending planning and green shovel allocation in open-pit mines: a case study in a copper mine (published at International Journal of Mining and Mineral Engineering journal in 2023)
+  - "Ore blending planning and green shovel allocation in open-pit mines: a case study in a copper mine" (published at International Journal of Mining and Mineral Engineering journal in 2023)
 
     - Authors: Natanael S. Coutinho (ITV), Tatianna A. P. Beneteli (ITV) Gustavo Pessin (ITV), and Luciano P. Cota (ITV)
       
