@@ -12,4 +12,4 @@
  
     - Authors: Natanael Coutinho (ITV and PPGCC/UFOP), Ângelo Bosada Júnior (ITV), Gustavo Pessin (ITV), Marcone Souza (UFOP), and Luciano Cota (ITV)   
       
-    - Instances: [Description](./files/SupplementaryMaterials_Instances.pdf), [Instances](./instances/)
+    - Instances: [Description](./files/Description.pdf), [Instances](./instances/)
