@@ -11,5 +11,9 @@
   - "Um algoritmo matheuristic baseado em Iterated Local Search para o problema de blendagem e alocação de equipamentos de carga na mineração" (submitted on SBPO 2025)
  
     - Authors: Natanael Coutinho (ITV and PPGCC/UFOP), Ângelo Bosada Júnior (ITV), Gustavo Pessin (ITV), Marcone Souza (UFOP), and Luciano Cota (ITV)   
+           
+  - "A simheuristic algorithm to deal with uncertainties in the integrated ore blending and green shovel allocation problem" (submitted on Journal of the Operational Research Society)
+
+    - Authors: Natanael S. Coutinho (ITV), Gustavo Pessin (ITV), Marcone Jamilson Freitas Souza (UFOP), and Luciano P. Cota (ITV)
       
-    - Instances: [Description](./files/Description.pdf), [Instances](./instances/)
+    - Instances: [Description](./files/Description.pdf), [Instances](./instances/) 
