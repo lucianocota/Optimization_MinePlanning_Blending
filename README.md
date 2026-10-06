@@ -8,7 +8,7 @@
       
     - [Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJMME.2023.133648)
 
-  - "Um algoritmo matheuristic baseado em Iterated Local Search para o problema de blendagem e alocação de equipamentos de carga na mineração" (submitted to SBPO 2025)
+  - "Um algoritmo matheuristic baseado em Iterated Local Search para o problema de blendagem e alocação de equipamentos de carga na mineração" (published in the Simpósio Brasileiro de Pesquisa Operacional - SBPO 2025)
  
     - Authors: Natanael Coutinho (ITV and PPGCC/UFOP), Ângelo Bosada Júnior (ITV), Gustavo Pessin (ITV), Marcone Souza (UFOP), and Luciano Cota (ITV)   
            
